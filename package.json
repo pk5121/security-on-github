@@ -1,9 +1,9 @@
 {
-  "name": "octocat-memory-game",
-  "description": "Memory game with Octocats",
-  "version": "0.0.1",
+  "name": "octocat-memo-game",
+  "description": "Memory game with Octocats is the new version",
+  "version": "2.6.9",
   "dependencies": {
-    "debug": "2.6.8",
+    "debug": "?",
     "ejs": "^2.5.6",
     "hoek": "^4.0.0",
     "npm": "^6.4.1",
@@ -17,3 +17,5 @@
   },
   "license": "MIT"
 }
+
+approved by india 
